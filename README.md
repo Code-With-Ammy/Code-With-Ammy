@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Code-With-Ammy
-- 👀 I’m interested in ...anything worth a while
+- 👀 I’m interested in ...quantum coputing, creaing real time simulation, 
 - 🌱 I’m currently learning ... quantom computing 
 - 💞️ I’m looking to collaborate on ... my research 
 - 📫 How to reach me ... biancaammymushanyuki@gmail.com
